@@ -43,4 +43,12 @@ def prepare_tweet_text(text):
     res = escape_markdown(text)
     res = markdown_twitter_usernames(res)
     res = markdown_twitter_hashtags(res)
-    return res
+
+
+    # Return Tweets from WhaleTrades
+    emo_ix = res.find('🗣️')
+    if emo_ix == -1:
+        emo_ix = res.find('💬')
+    return res[:emo_ix]
+
+
