@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a4105ac-44f4-404f-aace-e9a196d69bfc" name="Default Changelist" comment="Modify to seek Tweets from WhaleTrades">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="0a4105ac-44f4-404f-aace-e9a196d69bfc" name="Default Changelist" comment="Modify to seek Tweets from WhaleTrades" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,9 @@
       <option name="presentableId" value="Default" />
       <updated>1614782562472</updated>
       <workItem from="1614782564021" duration="7844000" />
-      <workItem from="1614801690100" duration="1741000" />
+      <workItem from="1614801690100" duration="2111000" />
+      <workItem from="1614803870368" duration="238000" />
+      <workItem from="1615061180629" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="Modify to seek Tweets from WhaleTrades">
       <created>1614802582759</created>
@@ -60,6 +60,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify to seek Tweets from WhaleTrades" />

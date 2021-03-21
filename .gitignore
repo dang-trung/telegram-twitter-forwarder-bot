@@ -1,5 +1,6 @@
 venv/
 env/
-
+secrets.py
 __pycache__/
+.idea/
 peewee.db
